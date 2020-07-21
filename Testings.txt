@@ -1,1 +1,1 @@
-Hello welcome to tutorial of Git hub
+Hello welcome to tutorial of Git hub.Today i learnt about cloning and pulling the changes.
